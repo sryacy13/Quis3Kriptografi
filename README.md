@@ -32,7 +32,7 @@ php artisan migrate
  # Akses aplikasi di browser melalui http://127.0.0.1:8000.
 
 
- 
+
 
 
 

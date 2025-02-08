@@ -7,6 +7,7 @@ Project ini adalah sebuah aplikasi QR Code Generator berbasis Laravel yang memun
 1️⃣ Clone Repository
  # Unduh project dari GitHub dengan menjalankan perintah berikut:
 git clone https://github.com/sryacy13/Quis3Kriptografi.git
+
 cd Quis3Kriptografi
 
 2️⃣ Install Dependencies
